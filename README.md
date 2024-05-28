@@ -1,4 +1,4 @@
-# GrammY Telegraph Plugin
+# grammY Telegraph Plugin
 ## Work-in-progress
 
 ## Installing
